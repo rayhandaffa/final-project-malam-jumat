@@ -1,5 +1,9 @@
-# Jaringan Komputer C-09 (2021)
-Final Project Kecerdasan Komputasional F dengan topik : 
+# Kecerdasan Komputasional F-02 (2021)
+Final Project Kecerdasan Komputasional F 
+
+## Topik 
+Prediksi Penempatan Pekerjaan berdasarkan Faktor Akademik dan Ketenagakerjaan
+
 
 NRP              | Nama
 -----------------|-----------
